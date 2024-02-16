@@ -1,0 +1,506 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-nLX {
+  box-sizing: border-box;
+  padding: 8rem 10.9rem 73.5rem 6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 71, 255, 0.2800000012);
+}
+.desktop-5-nLX .group-1-u3m {
+  margin: 0rem 0rem 3.8rem 48.4rem;
+  height: 7.1rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-1-u3m .home-LRu {
+  margin-right: 5.6rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-1-u3m .about-me-NtP {
+  margin-right: 5.3rem;
+  width: 16.5rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-1-u3m .works-CMd {
+  margin-right: 9.2rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-1-u3m .contacts-7zP {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 {
+  margin-right: 14.4rem;
+  width: calc(100% - 14.4rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .auto-group-w7af-ymh {
+  margin: 5.1rem 24.4rem 0rem 0rem;
+  width: 34.5rem;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .auto-group-w7af-ymh .hello-i-am-fPd {
+  margin: 0rem 0rem 2.8rem 2.6rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .auto-group-w7af-ymh .hello-i-am-mBm {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .auto-group-w7af-ymh .hello-i-am-mBm .lynch-ayen-m-pantinople-5CT {
+  margin-bottom: 3.5rem;
+  max-width: 34.5rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .auto-group-w7af-ymh .hello-i-am-mBm .bsit-3b-yYj {
+  margin-right: 5.7rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-5dfv-rh5 .ellipse-4-6tF {
+  width: 53.8rem;
+  height: 53.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-RQj {
+  margin: 0rem 88.4rem 24.3rem 0rem;
+  width: 31.1rem;
+  height: 7.2rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-RQj .group-8-default-MJP {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.desktop-5-nLX .group-8-RQj .group-8-default-MJP .group-4-uqh {
+  width: 100%;
+  height: 100%;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.44;
+  color: #000000;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff0000;
+  border-radius: 1.5rem;
+}
+.desktop-5-nLX .group-8-Cpo {
+  margin: 0rem 0rem 4.9rem 36.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-Cpo .home-9EF {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-Cpo .about-me-UGX {
+  margin-right: 9.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-Cpo .works-p5V {
+  margin-right: 12.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-8-Cpo .contacts-wvo {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd {
+  margin: 0rem 3.6rem 14.8rem 10.3rem;
+  width: calc(100% - 13.9rem);
+  height: 81.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .n-removebg-preview-2-Lxw {
+  margin: 5.8rem 1.2rem 0rem 0rem;
+  width: 24.6rem;
+  height: 75.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP {
+  margin: 25.367rem 5.1rem 45.9rem 0rem;
+  height: calc(100% - 71.2669rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm {
+  margin: 0rem 0rem 0.2rem 0.4rem;
+  width: 42.2rem;
+  height: 3.3331rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm .group-5-HFu {
+  width: 42.2rem;
+  height: 3.1331rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm .group-5-HFu .you-can-call-me-PZq {
+  margin: 0.033rem 1.2rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm .group-5-HFu .lynch-sG3 {
+  margin: 0rem 9.5rem 0.033rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm .group-5-HFu .lynch-xYP {
+  margin-bottom: 0.0331rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .group-6-kmm .or-5N7 {
+  width: 3.4rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 0.2331rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .auto-group-6qf5-Zo5 {
+  margin-bottom: 0.6rem;
+  width: 33.9rem;
+  height: 3.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .auto-group-6qf5-Zo5 .and-im-a-student-from-JVm {
+  width: 33.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .auto-group-6qf5-Zo5 .bsit-aCP {
+  width: 5.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .group-8-RzP .dalubhasaan-ng-lungsod-ng-lucena-BCB {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ff0000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-gxbh-VBd .i-enjoy-taking-complex-problem-and-turning-them-into-simple-and-beautiful-design-and-i-also-love-the-logic-and-structure-of-coding-and-always-strive-to-write-elegant-and-efficient-code-when-im-not-coding-you-will-find-me-at-the-gym-or-on-basketball-court-u8B {
+  max-width: 35.9rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ff0000;
+  font-family: Itim, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-2-sz7 {
+  margin: 0rem 0rem 2.1rem 56.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-2-sz7 .home-pPZ {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-2-sz7 .about-me-7dZ {
+  margin-right: 9.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-2-sz7 .works-3n7 {
+  margin-right: 12.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-2-sz7 .contacts-BtK {
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-whmy-LWK {
+  margin: 0rem 0.6rem 5.9rem 5.4rem;
+  width: calc(100% - 6rem);
+  height: 39.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-whmy-LWK .rectangle-6-emu {
+  margin-right: 2.3rem;
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-whmy-LWK .auto-group-vaqm-MwD {
+  width: 67.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-whmy-LWK .auto-group-vaqm-MwD .rectangle-9-K7M {
+  width: 51.3rem;
+  height: 33.9rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-5-nLX .auto-group-whmy-LWK .auto-group-vaqm-MwD .works-FWo {
+  width: 18rem;
+  height: 10.4rem;
+  position: absolute;
+  left: 0;
+  top: 29rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-nLX .auto-group-c6dd-HyH {
+  margin: 0rem 0.6rem 19.5rem 5.4rem;
+  width: calc(100% - 6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-c6dd-HyH .rectangle-7-RZh {
+  margin-right: 18.5rem;
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .auto-group-c6dd-HyH .rectangle-8-AXH {
+  width: 51.3rem;
+  height: 33.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-9-K9H {
+  margin-left: 48.3rem;
+  box-sizing: border-box;
+  padding-right: 2.4rem;
+  height: 17.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-9-K9H .home-FHq {
+  margin-right: 5.6rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-9-K9H .about-me-BBV {
+  margin-right: 9.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-9-K9H .works-KHh {
+  margin-right: 12.4rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-nLX .group-9-K9H .contacts-e55 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 2.5775;
+  color: #ff0000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
